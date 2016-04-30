@@ -1,2 +1,2 @@
 # golang.be
-golang.be pages repository
+golang.be website contents.
